@@ -1,9 +1,7 @@
-{"Version":"1.1","Url":"https://github.com/tikvpn/tikvpn/raw/master/EAGLEVPN45.zip","Text":"
+{"Version":"1.1","Url":"https://github.com/maneenut1990/maneenut1990/raw/main/Goodvpn.zip","Text":"
 
-📢 ยินดีต้อนรับสู่แอพเน็ตฟรี Good vpn
-
-📢  เช่า VIP เริ่มต้นวันล่ะ1บาทเท่านั่น ติดต่อแอดมินได้เลย
-
+📢 ยินดีต้อนรับสู่แอพเน็ตฟรี Good vpn เวอร์ชัน1
+📢  ใครจะเช่า VIP เริ่มต้นวันล่ะ1บาทเท่านั่น ติดต่อแอดมินได้เลย
 🇸🇬 𝐒𝐆 ☑️ 14 เซิฟเวอร์ ∆ ใช้งานทั่งไป
 🇯🇵 JP ☑️ 5 เซิฟเวอร์ ∆ ใช้งานทั่งไป
 🇺🇸 USA ☑️30เซิฟเวอร์ ∆ ใช้งานทั่งไป
