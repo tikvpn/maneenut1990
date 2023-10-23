@@ -9,6 +9,13 @@
          "name": "AST_DTAC ",
          "url": "https://github.com/tikvpn/maneenut1990/raw/main/AST_DTAC.ovpn"
       },
+
+
+       {
+         "name": "AST_AIS ",
+         "url": "https://github.com/tikvpn/maneenut1990/raw/main/AST_AIS.ovpn"
+      },
+      
       
       {
          "name": "AST_AIS ",
@@ -17,7 +24,7 @@
       
 
    ],
-"message":" \nรองรับ NOPRO Dtac AISPLAY True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์ VPS แท้\nบริการเช่าอินเตอร์เน็ตความเร็วสูง\nให้บริการโดย Addmin AST-TOP-UP \n คอนฟิกเวอร์ชั่น: 1.2 \nอัพเดทเมื่อวันที่: 23/ตค/2023\n \nผู้พัฒนาแอพ:AST-TOP-UP \n  ",
+"message":" \nรองรับ NOPRO Dtac AISPLAY True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์ VPS แท้\nบริการเช่าอินเตอร์เน็ตความเร็วสูง\nให้บริการโดย Addmin AST-TOP-UP \n คอนฟิกเวอร์ชั่น: 1.3 \nอัพเดทเมื่อวันที่: 23/ตค/2023\n \nผู้พัฒนาแอพ:AST-TOP-UP \n  ",
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-   "version": 1.2
+   "version": 1.3
 }
