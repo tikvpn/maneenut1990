@@ -1,35 +1,32 @@
 {
    "files": [   
- {
-         "name": "AST_TRUE_SOCIAL",
-         "url": "https://github.com/tikvpn/maneenut1990/raw/main/AST_TRUE_SOCIAL.1.ovpn"
-      },
+ 
 
  {
-         "name": "AST_TRUE_YOUTUBE",
-         "url": "https://github.com/tikvpn/maneenut1990/raw/main/ASTFILE02.zip"
+         "name": "VIP_01_TRUE_YOUTUBE",
+         "url": "https://github.com/tikvpn/maneenut1990/raw/main/VIP_01_TRUE_Pro.youtube.ovpn"
       },
       
        {
-         "name": "AST_DTAC_TAMJAI ",
+         "name": "VIP_01_DTAC_TAMJAI ",
          "url": "https://github.com/tikvpn/maneenut1990/raw/main/VIP_01_DTAC_TAMJAI.ovpn"
       },
 
 
        {
-         "name": "AST_AIS ",
-         "url": "https://github.com/tikvpn/maneenut1990/raw/main/AST_AIS.ovpn"
+         "name": "VIP_01_AIS ",
+         "url": "https://github.com/tikvpn/maneenut1990/raw/main/VIP_01_AIS.PLAY.ovpn"
       },
       
       
       {
-         "name": "AST_AIS ",
-         "url": "https://github.com/tikvpn/maneenut1990/raw/main/AST_AIS.ovpn" 
+         "name": "VIP_01_AIS ",
+         "url": "https://github.com/tikvpn/maneenut1990/raw/main/VIP_01_AIS.PLAY.ovpn" 
       }
       
 
    ],
-"message":" \nรองรับ TAMJAI Dtac AISPLAY True​\n​DTAC​ TAMJAI\n​TRUE​ YOUTUBE\nเซิร์ฟเวอร์ VPS แท้\nบริการเช่าอินเตอร์เน็ตความเร็วสูง\nให้บริการโดย Addmin AST-TOP-UP \n คอนฟิกเวอร์ชั่น: 1.7 \nอัพเดทเมื่อวันที่: 02/พฤจิกายน/2023\n \nผู้พัฒนาแอพ:AST-TOP-UP \n  ",
+"message":" \nรองรับ TAMJAI Dtac AISPLAY True​\n​DTAC​ TAMJAI\n​TRUE​ YOUTUBE\nเซิร์ฟเวอร์ VPS แท้\nบริการเช่าอินเตอร์เน็ตความเร็วสูง\nให้บริการโดย Addmin AST-TOP-UP \n คอนฟิกเวอร์ชั่น: 1.8 \nอัพเดทเมื่อวันที่: 02/พฤจิกายน/2023\n \nผู้พัฒนาแอพ:AST-TOP-UP \n  ",
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-   "version": 1.7
+   "version": 1.8
 }
