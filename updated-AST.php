@@ -1,4 +1,4 @@
-{"Version":"1.1","Url":"https://github.com/tikvpn/maneenut1990/blob/raw/ASTFILE02.zip","Text":"
+{"Version":"1.1","Url":"https://github.com/tikvpn/maneenut1990/raw/main/ASTFILE02.zip","Text":"
 
 📢 ยินดีต้อนรับสู่แอพเน็ตฟรี AST-INTERNET vpn เวอร์ชัน1
 
